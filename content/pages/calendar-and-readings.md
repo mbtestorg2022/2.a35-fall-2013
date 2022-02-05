@@ -9,16 +9,204 @@ Textbook
 
 Vogel, Steven. _Cats' Paws and Catapults: Mechanical Worlds of Nature and People_. W. W. Norton & Company, 2000. ISBN: 9780393319903.
 
-| Ses # | Due Dates | TOPIC AND READING ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | &nbsp; | Introduction. Methods of Biomimetics. |
-| 2 | Assignment 1 Due |  {{< br >}}{{< br >}} Methods of Biomimetics. Discuss Chapters 1 and 2. {{< br >}}{{< br >}} *   Chapter 1: Noncoincident Worlds{{< br >}}*   Chapter 2: Two Schools of Design {{< br >}}{{< br >}}  |
-| 3 | Assignment 3 Due |  {{< br >}}{{< br >}} Discuss Chapters 3 and 4. {{< br >}}{{< br >}} *   Chapter 3: The Matter of Magnitude{{< br >}}*   Chapter 4: Surfaces, Angles, and Corners {{< br >}}{{< br >}}  |
-| 4 | Assignment 3 Due |  {{< br >}}{{< br >}} Discuss Chapters 5 and 6. {{< br >}}{{< br >}} *   Chapter 5: The Stiff and the Soft{{< br >}}*   Chapter 6: Two Routes to Rigidity {{< br >}}{{< br >}}  |
-| 5 | Assignment 4 Due | Examples |
-| 6 | Assignment 5 Due |  {{< br >}}{{< br >}} Discuss Chapters 7 and 8. {{< br >}}{{< br >}} *   Chapter 7: Pulling versus Pushing{{< br >}}*   Chapter 8: Engines for the Mechanical Worlds {{< br >}}{{< br >}}  |
-| 7 | &nbsp; | [Genetic Algorithms (PDF)]({{< baseurl >}}/resources/mit2_a35f13_genetic_algo) |
-| 8 | Assignment 6 Due | Genetic Algorithms and Politics |
-| 9 | Assignment 7 Due |  {{< br >}}{{< br >}} Discuss Chapters 9 and 10. {{< br >}}{{< br >}} *   Chapter 9: Putting Engines to Work{{< br >}}*   Chapter 10: About Pumps, Jets, and Ships {{< br >}}{{< br >}}  |
-| 10 | Assignment 8 Due |  {{< br >}}{{< br >}} Discuss Chapters 11 and 12. {{< br >}}{{< br >}} *   Chapter 11: Making Widgets{{< br >}}*   Chapter 12: Copying, in Retrospect {{< br >}}{{< br >}}  |
-| 11 | &nbsp; |  {{< br >}}{{< br >}} Discuss Chapters 13 and 14. {{< br >}}{{< br >}} *   Chapter 13: Copying, Present and Prospective{{< br >}}*   Chapter 14: Contrasts, Convergences, and Consequences {{< br >}}{{< br >}} Critique of the Textbook {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Ses #
+{{< thclose >}}
+{{< thopen >}}
+Due Dates
+{{< thclose >}}
+{{< thopen >}}
+TOPIC AND READING ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction. Methods of Biomimetics.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 Due
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Methods of Biomimetics. Discuss Chapters 1 and 2.
+
+*   Chapter 1: Noncoincident Worlds
+*   Chapter 2: Two Schools of Design
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 Due
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss Chapters 3 and 4.
+
+*   Chapter 3: The Matter of Magnitude
+*   Chapter 4: Surfaces, Angles, and Corners
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 Due
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss Chapters 5 and 6.
+
+*   Chapter 5: The Stiff and the Soft
+*   Chapter 6: Two Routes to Rigidity
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 Due
+{{< tdclose >}}
+{{< tdopen >}}
+Examples
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 Due
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss Chapters 7 and 8.
+
+*   Chapter 7: Pulling versus Pushing
+*   Chapter 8: Engines for the Mechanical Worlds
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[Genetic Algorithms (PDF)]({{< baseurl >}}/resources/mit2_a35f13_genetic_algo)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6 Due
+{{< tdclose >}}
+{{< tdopen >}}
+Genetic Algorithms and Politics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 7 Due
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss Chapters 9 and 10.
+
+*   Chapter 9: Putting Engines to Work
+*   Chapter 10: About Pumps, Jets, and Ships
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 8 Due
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss Chapters 11 and 12.
+
+*   Chapter 11: Making Widgets
+*   Chapter 12: Copying, in Retrospect
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss Chapters 13 and 14.
+
+*   Chapter 13: Copying, Present and Prospective
+*   Chapter 14: Contrasts, Convergences, and Consequences
+
+Critique of the Textbook
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
