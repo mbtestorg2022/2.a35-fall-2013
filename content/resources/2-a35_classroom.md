@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: abc2a60f-fb16-8421-a8fb-76eb80632f82
 resourcetype: Image
 title: 2.A35 classroom
 uid: c6303dce-6afc-9b12-c27e-483f1d57c83a
